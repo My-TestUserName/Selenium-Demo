@@ -1,0 +1,3 @@
+/Selenium-Java-Gradle/bin/*
+/Selenium-Java-Gradle/build/*
+.gradle
