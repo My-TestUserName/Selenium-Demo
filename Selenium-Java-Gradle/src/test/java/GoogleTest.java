@@ -25,7 +25,7 @@ public void googleTest(){
        WebDriver driver = new ChromeDriver(); 
        driver.get("http://www.google.com"); 
        WebElement element = driver.findElement(By.name("q"));
-       element.sendKeys("Selenium");
+       element.sendKeys("QTP");
        element.submit();
        driver.close();
 }
